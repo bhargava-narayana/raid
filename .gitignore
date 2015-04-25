@@ -31,10 +31,17 @@
 # Debug files
 *.dSYM/
 
+<<<<<<< HEAD
 #vim
+=======
+#vim files
+>>>>>>> b01333feb054110d5f2c53daf05cf8383051838c
 *.swp
 
 #browser
 *.out
 tags
+<<<<<<< HEAD
 
+=======
+>>>>>>> b01333feb054110d5f2c53daf05cf8383051838c
